@@ -17,4 +17,4 @@
 * https://github.com/Shreyz-max/Video-Captioning?tab=readme-ov-file
 * https://medium.com/analytics-vidhya/video-captioning-with-keras-511984a2cfff
 * https://github.com/scopeInfinity/Video2Description/tree/VideoCaption
-* 
+* https://github.com/vijayvee/video-captioning
